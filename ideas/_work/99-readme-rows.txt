@@ -1,1 +1,2 @@
 SentinelAML (idea-01) | $134M Y5 ARR | ~$65M capital | Medium legal risk | GO (conditional) — strong capital efficiency (6.9:1 LTV:CAC), all fatal legal objections mitigated; most de-risked idea so far.
+ClearPath Health (idea-02) | $160M Y5 ARR | ~$150M capital | Medium legal risk | GO — cured all three fatal legal defects, strong unit economics (7.7:1 LTV:CAC); payer countermeasures (L10) remain open, attestation is a single load-bearing control.
