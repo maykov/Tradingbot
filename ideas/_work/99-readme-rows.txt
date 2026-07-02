@@ -1,0 +1,1 @@
+SentinelAML (idea-01) | $134M Y5 ARR | ~$65M capital | Medium legal risk | GO (conditional) — strong capital efficiency (6.9:1 LTV:CAC), all fatal legal objections mitigated; most de-risked idea so far.
