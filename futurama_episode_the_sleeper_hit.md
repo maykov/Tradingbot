@@ -65,6 +65,8 @@ Every scene below is split into takes of **under 5 seconds each**, with a detail
 
 ### Scene 1 — Cold Open: The All-Nighter
 
+![Take 1.1, frame 1 — the ship limps into frame from the top left, one engine coughing purple sparks, dawn-lit from Earth dead ahead](stills/take_1_1_frame_001.png)
+
 **Take 1.1 (4s) — WIDE, slow push-in**
     Black space, star-flecked. The Planet Express ship limps into frame from the top left, listing badly, one engine coughing intermittent purple sparks. It's dawn-lit from the direction of Earth, dead ahead.
     DIALOGUE: (none)
